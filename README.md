@@ -158,11 +158,11 @@ CRUD/
 ### Passo a Passo
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/applephoria/CRUD.git
+   git clone https://github.com/applephoria/CRUD-CSharp.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd CRUD
+   cd CRUD-CSharp
    ```
 3. Compile a solução:
    ```bash
