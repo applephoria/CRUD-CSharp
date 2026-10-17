@@ -1,0 +1,18 @@
+## Visual Studio cache & temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+ProjectEvaluation/
+
+## Build outputs
+[Bb]in/
+[Oo]bj/
+CRUD.exe
+
+## Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
